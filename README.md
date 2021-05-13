@@ -18,4 +18,6 @@ In this program a human plays against an AI. The AI choses randomly
 (I promise). The game is repeated N_GAMES times and the human gets
 a total score. Each win is worth **+1** points, each loss is worth **-1**.
 
-![Screenshot](Screenshot(348).png)
+![Screenshot (348)](https://user-images.githubusercontent.com/59107214/118086167-271a9880-b3e1-11eb-861c-67dd7327e040.png)
+
+
