@@ -1,4 +1,4 @@
-#Implements the game of Rock-Paper-Scissors!
+# Implements the game of Rock-Paper-Scissors!
 
 History:
 This classic game dates back to the *Han Dinesty*, over **2200** years ago.
